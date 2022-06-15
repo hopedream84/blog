@@ -1,5 +1,4 @@
 # blog ??
 
-[Conferecnce](./Conferecnce)
-
-[Hobby](./Hobby)
+- [Conferecnce](./Conferecnce)
+- [Hobby](./Hobby)
